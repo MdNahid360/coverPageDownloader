@@ -1,0 +1,24 @@
+.splide{
+    background: rgba(0, 0, 0, 0.132);
+    /* position: absolute; */
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%!important;
+    width: 100%!important;
+    padding: 0;
+}
+.splide__slide{
+    display: flex;
+    justify-content:center!important;
+    align-items:center!important;
+    padding: 10px;
+}
+.splide__track--draggable{
+    width: 90%;
+    height:90%;
+    display: flex;
+    justify-content:center!important;
+    align-items:center!important;
+}
